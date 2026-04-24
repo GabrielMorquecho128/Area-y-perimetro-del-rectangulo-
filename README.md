@@ -1,2 +1,2 @@
-# Area-y-perimetro-del-rectangulo-
+perimetro-del-rectangulo-
 area y perimetro del rectangulo
